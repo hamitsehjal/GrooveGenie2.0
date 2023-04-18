@@ -10,7 +10,8 @@ import SongBar from "./SongBar";
 import SongCard from "./SongCard";
 import TopPlay from "./TopPlay";
 
+import MusicPlayer from "./MusicPlayer"
 export {
     Sidebar, ArtistCard, DetailsHeader, Error, Loader, PlayPause,
-    RelatedSongs, Searchbar, SongBar, SongCard, TopPlay
+    RelatedSongs, Searchbar, SongBar, SongCard, TopPlay, MusicPlayer
 }
